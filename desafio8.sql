@@ -1,1 +1,2 @@
-SELECT *, 5 + 6, "de", 2 + 8, "A", "Trybe", "eh";
+SELECT 5 + 6 AS "A", "de" AS "Trybe", 2 + 8 AS "eh";
+
