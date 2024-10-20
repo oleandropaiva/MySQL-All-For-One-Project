@@ -1,14 +1,9 @@
 # Boas vindas ao repositório do projeto All For One
 
 
-Hoje você fará um projeto com o codinome *All For One* em que praticará todos os conceitos de SQL já ensinados até aqui. Porém, você vai usar um banco de dados totalmente diferente, então dê tchau para o `sakila` e dê boas vindas ao `Northwind`, que será usado neste projeto. As instruções de como restaurar o banco podem ser lidas a seguir.
-</details>
+Hoje você fará um projeto *All For One* em que praticado muitos os conceitos de SQL . Porém, vcom um banco de dados `Northwind`, que foi usado neste projeto. 
+Aqui são montadas "queries" para encontrar informações esperadas nos desafios.
 
-
-
-# Requisitos do projeto
-
-Monte queries para encontrar as informações esperadas pelos desafios:
 
 ## Desafios Iniciais
 
