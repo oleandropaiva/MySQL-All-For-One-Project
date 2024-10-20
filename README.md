@@ -1,7 +1,7 @@
 # Boas vindas ao repositório do projeto All For One
 
 
-Hoje você fará um projeto *All For One* em que praticado muitos os conceitos de SQL . Porém, vcom um banco de dados `Northwind`, que foi usado neste projeto. 
+Este é o projeto *All For One* em que praticado muitos os conceitos de SQL . Porém, com um banco de dados `Northwind`.
 Aqui são montadas "queries" para encontrar informações esperadas nos desafios.
 
 
